@@ -1,4 +1,4 @@
-let cfg = "./config-37.json";
+let cfg = "./config-Yan.json";
 
 function ShowCer(src, txt) {
     $('.perfundo__image').css("background-image", "url(" + src + ")");
