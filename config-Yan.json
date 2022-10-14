@@ -7,13 +7,13 @@
     "wallpaper": "./img/bg-37.jpg",
     "content": "所有没见过的东西<br>都要拍下来<br>这样就不会忘啦<br>这个列车长绝对喜欢<br>你们是来当我的模特么<br>真是不会拍照呢<br>那就让本姑娘来教教你们<br>茄子",
     "pics": [
-        "img/Y01.jpg",
-        "img/Y02.jpg",
-        "img/Y03.jpg",
-        "img/Y04.jpg",
-        "img/Y05.jpg",
-        "img/Y06.jpg",
-        "img/Y07.jpg",
-        "img/Y08.jpg"
+        "./img/Y01.jpg",
+        "./img/Y02.jpg",
+        "./img/Y03.jpg",
+        "./img/Y04.jpg",
+        "./img/Y05.jpg",
+        "./img/Y06.jpg",
+        "./img/Y07.jpg",
+        "./img/Y08.jpg"
     ]
 }
